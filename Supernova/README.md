@@ -1,4 +1,4 @@
-<b>Secure Your Project With MH AUDITS</b>
+<h2>Secure your project with MH Audits</h2>
 
 We offer industry-leading audits with automated and manual in-depth reporting and a range of suggestions to improve and avoid contract vulnerabilities.<br>
 
