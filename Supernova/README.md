@@ -11,7 +11,7 @@ Efficient and affordable automated and manual inspection carried out to eliminat
 
 📱 <b>Contact</b><br>
 <a href="mailto:nick@mhaudits.io">Email</a><br>
-<a href="https://t.me/nj1616">Telegtam</a><br>
+<a href="https://t.me/nj1616">Telegram</a><br>
 <a href="https://www.mhaudits.io/">Website</a><br>
 
 🔔 <b>Socials</b><br>
