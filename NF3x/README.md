@@ -10,7 +10,7 @@ Efficient and affordable automated and manual inspection carried out to eliminat
 ✅ Manual Security Testing (In-Depth Expert Review & Dynamic Analysis)<br>
 
 📱 <b>Contact</b><br>
-<a href="mailto:nick@d3ploy.io">Email</a><br>
+<a href="mailto:hello@d3ploy.io">Email</a><br>
 <a href="https://t.me/nj1616">Telegram</a><br>
 <a href="https://www.d3ploy.co/">Website</a><br>
 
