@@ -16,5 +16,5 @@ Efficient and affordable automated and manual inspection carried out to eliminat
 
 🔔 <b>Socials</b><br>
 Twitter: https://twitter.com/d3ployco<br>
-Telegram: https://t.me/MH_Ventures<br>
-LinkedIn: https://www.linkedin.com/company/d3ploy/
+LinkedIn: https://www.linkedin.com/company/d3ploy/<br>
+Linktree: https://linktr.ee/mhventures
