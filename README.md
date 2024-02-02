@@ -15,6 +15,6 @@ Efficient and affordable automated and manual inspection carried out to eliminat
 <a href="https://www.d3ploy.co/">Website</a><br>
 
 🔔 <b>Socials</b><br>
-Twitter: https://twitter.com/d3ployco<br>
+Twitter: https://twitter.com/d3ployco_<br>
 LinkedIn: https://www.linkedin.com/company/d3ploy/<br>
 Linktree: https://linktr.ee/mhventures
